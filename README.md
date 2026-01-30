@@ -10,7 +10,7 @@
 
 | Name | GitHub | Role |
 |------|--------|------|
-| | @username | |
+|Kabir Asamu | @kasamu |Project leader|
 | | @username | |
 | | @username | |
 | | @username | |
